@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+<tabela_kursow typ="A" uid="12a205">
+   <numer_tabeli>205/A/NBP/2012</numer_tabeli>
+   <data_publikacji>2012-10-22</data_publikacji>
+   <pozycja>
+      <nazwa_waluty>bat (Tajlandia)</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>THB</kod_waluty>
+      <kurs_sredni>0,1026</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>dolar amerykański</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>USD</kod_waluty>
+      <kurs_sredni>3,1470</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>dolar australijski</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>AUD</kod_waluty>
+      <kurs_sredni>3,2478</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>dolar Hongkongu</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>HKD</kod_waluty>
+      <kurs_sredni>0,4067</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>dolar kanadyjski</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>CAD</kod_waluty>
+      <kurs_sredni>3,1669</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>dolar nowozelandzki</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>NZD</kod_waluty>
+      <kurs_sredni>2,5743</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>dolar singapurski</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>SGD</kod_waluty>
+      <kurs_sredni>2,5745</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>euro</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>EUR</kod_waluty>
+      <kurs_sredni>4,1056</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>forint (Węgry)</nazwa_waluty>
+      <przelicznik>100</przelicznik>
+      <kod_waluty>HUF</kod_waluty>
+      <kurs_sredni>1,4709</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>frank szwajcarski</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>CHF</kod_waluty>
+      <kurs_sredni>3,3921</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>funt szterling</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>GBP</kod_waluty>
+      <kurs_sredni>5,0493</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>hrywna (Ukraina)</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>UAH</kod_waluty>
+      <kurs_sredni>0,3855</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>jen (Japonia)</nazwa_waluty>
+      <przelicznik>100</przelicznik>
+      <kod_waluty>JPY</kod_waluty>
+      <kurs_sredni>3,9447</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>korona czeska</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>CZK</kod_waluty>
+      <kurs_sredni>0,1652</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>korona duńska</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>DKK</kod_waluty>
+      <kurs_sredni>0,5505</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>korona islandzka</nazwa_waluty>
+      <przelicznik>100</przelicznik>
+      <kod_waluty>ISK</kod_waluty>
+      <kurs_sredni>2,5304</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>korona norweska</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>NOK</kod_waluty>
+      <kurs_sredni>0,5560</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>korona szwedzka</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>SEK</kod_waluty>
+      <kurs_sredni>0,4783</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>kuna chorwacka</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>HRK</kod_waluty>
+      <kurs_sredni>0,5435</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>lej rumuński</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>RON</kod_waluty>
+      <kurs_sredni>0,8969</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>lew bułgarski</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>BGN</kod_waluty>
+      <kurs_sredni>2,0992</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>lira turecka</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>TRY</kod_waluty>
+      <kurs_sredni>1,7528</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>lit litewski</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>LTL</kod_waluty>
+      <kurs_sredni>1,1891</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>łat łotewski</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>LVL</kod_waluty>
+      <kurs_sredni>5,8989</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>nowy izraelski szekel</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>ILS</kod_waluty>
+      <kurs_sredni>0,8242</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>peso chilijskie</nazwa_waluty>
+      <przelicznik>100</przelicznik>
+      <kod_waluty>CLP</kod_waluty>
+      <kurs_sredni>0,6631</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>peso filipinskie</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>PHP</kod_waluty>
+      <kurs_sredni>0,0760</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>peso meksykańskie</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>MXN</kod_waluty>
+      <kurs_sredni>0,2445</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>rand (RPA)</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>ZAR</kod_waluty>
+      <kurs_sredni>0,3653</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>real brazylijski</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>BRL</kod_waluty>
+      <kurs_sredni>1,5524</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>ringgit malezyjski</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>MYR</kod_waluty>
+      <kurs_sredni>1,0311</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>rubel rosyjski</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>RUB</kod_waluty>
+      <kurs_sredni>0,1018</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>rupia (Indonezja)</nazwa_waluty>
+      <przelicznik>10000</przelicznik>
+      <kod_waluty>IDR</kod_waluty>
+      <kurs_sredni>3,2766</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>rupia indyjska</nazwa_waluty>
+      <przelicznik>100</przelicznik>
+      <kod_waluty>INR</kod_waluty>
+      <kurs_sredni>5,8815</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>won (Korea Południowa)</nazwa_waluty>
+      <przelicznik>100</przelicznik>
+      <kod_waluty>KRW</kod_waluty>
+      <kurs_sredni>0,2850</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>yuan renminbi (Chiny)</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>CNY</kod_waluty>
+      <kurs_sredni>0,5031</kurs_sredni>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>SDR (MFW)</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>XDR</kod_waluty>
+      <kurs_sredni>4,8600</kurs_sredni>
+   </pozycja>
+</tabela_kursow>
